@@ -1,0 +1,39 @@
+body{
+    background-color: #063157;
+}
+h1{
+    color: black;
+    background-color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 10px;
+    text-decoration: underline;
+    font-size: 50px;
+    padding-left: 20px;
+}
+img{
+    height: 300px;
+    width: 500px;
+    margin-left: 100px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+h2{
+    color: black;
+    background-color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: underline;
+}
+
+p{
+    color: white;
+    font-size: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}

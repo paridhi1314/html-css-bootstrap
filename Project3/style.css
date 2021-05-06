@@ -1,0 +1,27 @@
+.title{
+    text-align: center;
+    text-decoration: underline;
+}
+.formname{
+    text-align: center;
+}
+.ad{
+    text-align: right;
+}
+input{
+    margin-top: 10px;
+}
+label{
+    margin-top: 10px;
+}
+
+select{
+    margin-top: 10px;
+}
+.sign
+{
+    text-align: right;
+}
+body{
+    background-color: aqua;
+}
